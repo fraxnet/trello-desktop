@@ -1,6 +1,7 @@
 # Trello Desktop [![Build Status](https://travis-ci.org/danielchatfield/trello-desktop.svg)](https://travis-ci.org/danielchatfield/trello-desktop)
 
-> Unofficial Trello Desktop app
+> Unofficial Trello Desktop app. project management software using Kanban concept for simple project task managment and to do lists. 
+> Kanban provides a visual view of the workflow, tasks in-progress and periorities. Kanban became an effective tool to support running a production system as a whole, and an excellent way to promote improvement. (wikipedia)
 
 [![Trello Desktop](https://github.com/danielchatfield/trello-desktop/blob/master/media/screenshot.png?raw=true)](https://github.com/danielchatfield/trello-desktop/releases/latest)
 
